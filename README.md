@@ -1,4 +1,4 @@
-# Typerscript-Unit-Test: Merge three collection function
+# TyperScript-Unit-Test: Merge three collections function
 
 Given
 
